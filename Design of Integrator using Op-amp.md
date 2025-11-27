@@ -8,7 +8,6 @@ To design and test the performance of integrator circuits using  Op-amp.
 
 <img width="811" height="206" alt="image" src="https://github.com/user-attachments/assets/fd527bf4-b7bf-4330-9b09-ce7ad607bdeb" />
 
-
 ## THEORY:
 
 INTEGRATOR 
@@ -41,11 +40,14 @@ We get , R1 =  and hence Rf =
 
 ~~~
 ## CIRCUIT DIAGRAM:
+<img width="554" height="260" alt="image" src="https://github.com/user-attachments/assets/1164a8dc-d6f2-4f4e-b632-27a08df3f8af" />
 
 
 
 ## MODEL GRAPH
 
+<img width="556" height="398" alt="image" src="https://github.com/user-attachments/assets/3eb10dee-e4ee-48fa-bc11-2e19b82f783a" />
+<img width="482" height="369" alt="image" src="https://github.com/user-attachments/assets/e1c36a76-8242-40f5-bd38-9a65c46e2205" />
 
 
 ## PROCEDURE:
@@ -58,10 +60,12 @@ input voltage is applied to the inverting input terminal of the Op- Amp.
 are plotted in a graph sheet.
 
 ## TABULATION:
+<img width="548" height="234" alt="image" src="https://github.com/user-attachments/assets/98d7c36c-fefc-434c-a06b-25e8b264e3f7" />
 
 
 
 ## GRAPH:
+![WhatsApp Image 2025-11-27 at 17 52 11_dd1c6eea](https://github.com/user-attachments/assets/ef835f09-6930-4724-9902-f3a7d2b054b7)
 
 
 
